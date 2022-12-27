@@ -11,7 +11,21 @@ Imagine one shoots an electromagnetic (EM) wave of a specific wavelength using s
   </p>
 </p>
 
+Mathematically, the Rabi oscillation could be described by a periodical Hamiltonian of a simple two- level system such as the following shows
+
+<p align="center">
+
+$\ \hat{H}(t) = \begin{bmatrix}
+$
+
+</p>
+
+with $\ \frac{1}{2} \hbar \omega$ and $\ - \frac{1}{2} \hbar \omega$ as the excited and ground sate energy respectively, 𝐸 as the overall inference
+from the applied light and thus the product of the amplitude of the electric field and coupling strength between the light and atom, and 𝜔 is the angular frequency of the incoming light. Thus, our goal is to solve for the wavefunction of the ground and excited states from the Schrodinger equation which states that,
+
 ## Methodology
+
+
 
 ## Results and Analysis
 
