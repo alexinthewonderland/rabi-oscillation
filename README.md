@@ -28,7 +28,7 @@ from the applied light and thus the product of the amplitude of the electric fie
 where $\ \ket{\psi (t)}$ equals to,
 <p align="center">
 
-  <img width="150" alt="Screenshot 2022-12-27 at 11 11 52 PM" src="https://user-images.githubusercontent.com/103773281/209692370-5b843803-798e-432f-98df-78e991a025cb.png">
+  <img width="170" alt="Screenshot 2022-12-27 at 11 11 52 PM" src="https://user-images.githubusercontent.com/103773281/209692370-5b843803-798e-432f-98df-78e991a025cb.png">
  
   </p>
   
@@ -41,7 +41,7 @@ in which $\ \psi_{\uparrow}(t)$ corresponds to the wavefunction of the electron 
  where $\ ket{\psi_i (t)}$ meaning is the $\ i$-th eigenstate out of $\ n$-many of them (where in our case $\ i$ = 1,2). Then, $\ \ket{\psi_i (t)}$ can be factorised into,
  
  <p align="center">
- <img width="124" alt="Screenshot 2022-12-27 at 11 22 56 PM" src="https://user-images.githubusercontent.com/103773281/209693609-e2b8d803-2b99-44d2-b2ea-8d516e616dbe.png">
+ <img width="170" alt="Screenshot 2022-12-27 at 11 22 56 PM" src="https://user-images.githubusercontent.com/103773281/209693609-e2b8d803-2b99-44d2-b2ea-8d516e616dbe.png">
   </p>
   
 in which $\ \epsilon_i$ is called the quasi-energy with its values lies between $\ -\frac{\hbar \omega}{2} < \epsilon_i < \frac{\hbar \omega}{2}$ and $\ \ket{u_i (t)}$ is a periodical function so that $\ \ket{u_i (t+T} = \ket{u_i (t)}$. Plugging in Eq. (5) to the Schrodinger equation (Eq. (2)) would give us,
@@ -54,7 +54,7 @@ Fortunately, due to this periodicity of $\ \ket{u_i(t)}$, one can expand it in a
 
 <p align="center">
   
-  <img width="156" alt="Screenshot 2022-12-27 at 11 44 08 PM" src="https://user-images.githubusercontent.com/103773281/209696100-02625e60-0027-48a9-b18f-ddbdd33a0d5f.png">
+  <img width="170" alt="Screenshot 2022-12-27 at 11 44 08 PM" src="https://user-images.githubusercontent.com/103773281/209696100-02625e60-0027-48a9-b18f-ddbdd33a0d5f.png">
 
   </p>
   
@@ -70,14 +70,14 @@ To further simplify the problem, the periodic Hamiltonian $\ (\hat{H} (t))$ woul
 Applying then the above equation and rearrangin the eigenvector of $\ \epsilon_i$ so that i becomes the following column vector,
 
 <p align="center">
- <img width="64" alt="Screenshot 2022-12-27 at 11 50 39 PM" src="https://user-images.githubusercontent.com/103773281/209697034-e9de7d1f-3171-4cb6-92dd-fd1d8a10c804.png">
+ <img width="100" alt="Screenshot 2022-12-27 at 11 50 39 PM" src="https://user-images.githubusercontent.com/103773281/209697034-e9de7d1f-3171-4cb6-92dd-fd1d8a10c804.png">
   </p>
   
  with $\ 2(2N+1)$ number of rows, allows us to write down the Floquet Hamiltonian matrix as the following form,
  
  
 <p align="center">
-<img width="435" alt="Screenshot 2022-12-27 at 11 51 30 PM" src="https://user-images.githubusercontent.com/103773281/209697152-46f709d9-3fc1-4fe8-b7e0-4d55df8ad46c.png">
+<img width="500" alt="Screenshot 2022-12-27 at 11 51 30 PM" src="https://user-images.githubusercontent.com/103773281/209697152-46f709d9-3fc1-4fe8-b7e0-4d55df8ad46c.png">
   
   </p>
   
@@ -85,7 +85,7 @@ Applying then the above equation and rearrangin the eigenvector of $\ \epsilon_i
  
  <p align="center">
   
-  <img width="316" alt="Screenshot 2022-12-27 at 11 55 20 PM" src="https://user-images.githubusercontent.com/103773281/209697590-106af6e0-8fb6-4f04-bf08-a161ddcd4710.png">
+  <img width="400" alt="Screenshot 2022-12-27 at 11 55 20 PM" src="https://user-images.githubusercontent.com/103773281/209697590-106af6e0-8fb6-4f04-bf08-a161ddcd4710.png">
 
   
   </p>
