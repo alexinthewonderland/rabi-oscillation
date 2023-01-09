@@ -1,5 +1,11 @@
 # rabi-oscillation
+In this repository, it contains a few things as the following shows:
 
+* [Final_Project_PHYS2124_Code.ipynb](https://github.com/alexinthewonderland/rabi-oscillation/blob/main/Final_Project_PHYS2124_Code.ipynb) and [final_project_phys2124_code.py](https://github.com/alexinthewonderland/rabi-oscillation/blob/main/final_project_phys2124_code.py) contains the same code, but one is in a ```.ipynb``` file while the other is in a ```.py``` file. It is the only code in this repository which aims to analyze all the problems asked in the (problem-paper.pdf)[https://github.com/alexinthewonderland/rabi-oscillation/blob/main/problem-paper.pdf] file.
+* (results-and-analysis-report.pdf)[https://github.com/alexinthewonderland/rabi-oscillation/blob/main/results-and-analysis-report.pdf] is a detailed report regarding the whole project and the obtained results. Feel free to check it out!
+* (problem-paper.pdf)[https://github.com/alexinthewonderland/rabi-oscillation/blob/main/problem-paper.pdf] is a ```.pdf``` file that contains the background and all of the problem set that are needed to be analyzed in the project.
+
+## Background
 Imagine one shoots an electromagnetic (EM) wave of a specific wavelength using such as lasers to a system consisting of a ground state and an excited state. If it happens that the energy of the EM wave resonates with the energy gap between the ground state and the first excited state, then the electrons in the ground state would absorb the incoming EM wave and jumps up to the first excited state. Being in the excited state, the photons or EM waves passing through would keep travelling, however if the system de-excites, it will produce a photon with the same energy as the energy gap and the same phase as the shot EM wave. This phenomenon is called stimulated emission. The electron or system would then keep oscillating between the ground state and the excited state periodically with a certain frequency called the Rabi Frequency and thus the oscillation process is named as “Rabi Oscillation” [1].
 
 <p align="center">
